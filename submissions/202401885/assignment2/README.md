@@ -90,10 +90,6 @@
 * **추가 개선 아이디어**:
 
   * Dropout 추가로 과적합 완화
-  * Batch Normalization 적용
-  * AdamW 옵티마이저, Learning Rate Scheduler 사용
-  * 데이터 증강(Data Augmentation)을 통한 일반화 향상
-
 ---
 
 ## 클래스별 정확도 (3층 구조 기준)
